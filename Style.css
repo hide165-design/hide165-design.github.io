@@ -1,0 +1,80 @@
+
+h2 {
+    font-size: 20px;
+    color: #302181;
+}
+
+p,li {
+    font-size: 16px;
+    color: #333333;
+}
+
+#Portada {
+    background-color: #adc8e4;
+    border: 6px solid #0a0091;
+    padding: 30px;
+    margin: 10px ;
+    border-radius: 25px;
+    text-align: center;
+    color: #333333;    
+}
+
+body {
+    background-color: #c7c8c9;
+}
+
+#navegador-contenido {
+    background-color: #90bae4;
+    border: 4px solid #0a0091;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+    color: #333333;
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        color: #dae2e2;
+    }
+    
+}
+
+.articleType1 {
+    background-color: rgb(236, 236, 236);
+    border-top: 3px solid #0a0091;
+    padding: 25px;
+    font-family: 'Roboto',system-ui, -apple-system;
+    color: #333333;
+}
+
+.articleType2 {
+    background-color: rgb(236, 236, 236);
+    border-top: 3px solid #0a0091;
+    padding: 25px;
+    font-family: 'Roboto',system-ui, -apple-system;
+    color: #333333;
+}
+
+#Articulo5 {
+    background-color: rgb(159, 197, 212);
+    border: 2px solid #09303a;
+    padding: 40px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333333;
+}
+
+.imagenes {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: 250px;
+}
+
+.imagenes2 {
+    
+    margin: 20px auto;
+    max-width: 100%;
+    height: 80px;
+}
